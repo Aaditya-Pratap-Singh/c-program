@@ -1,4 +1,4 @@
-//PRINT A NUMBER FROM 1 TO 100
+//PRINT A NUMBER FROM 1 TO n
 #include<stdio.h>
 void main()
 {
@@ -7,6 +7,6 @@ void main()
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)
 	{
-		printf("%d",i);
+		printf("%d\t",i);// \t for space
 	}
 }
