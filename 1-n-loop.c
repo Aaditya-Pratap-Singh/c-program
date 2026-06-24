@@ -1,3 +1,4 @@
+
 //PRINT A NUMBER FROM 1 TO n
 #include<stdio.h>
 void main()
@@ -7,6 +8,7 @@ void main()
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)
 	{
-		printf("%d\t",i);// \t for space
+		printf("%d\n",i);// \t for space
 	}
 }
+

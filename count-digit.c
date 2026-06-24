@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //TO CHECK NUMBER OF DIGITS OF A GIBEN N DIGIT NUMBER
 #include<stdio.h>
 void main()
@@ -13,3 +14,20 @@ void main()
 	}
 	printf("%d",count);
 }
+=======
+//TO CHECK NUMBER OF DIGITS OF A GIBEN N DIGIT NUMBER
+#include<stdio.h>
+void main()
+{
+	int n,i=1,digit,count=0;
+	printf("Enter the value of n :");
+	scanf("%d",&n);
+	while(n>0)
+	{
+		digit=n/10;
+		count++;
+		n=digit;
+	}
+	printf("%d",count);
+}
+>>>>>>> 7547e39c535205c73e3395442a0bb112a0d03976
