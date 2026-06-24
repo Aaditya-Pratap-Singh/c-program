@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //9,99,999,9999,----n
 #include<stdio.h>
 void main()
@@ -12,18 +11,3 @@ void main()
 		printf("%lld\t",series);
 	}
 }
-=======
-//9,99,999,9999,----n
-#include<stdio.h>
-void main()
-{
-	long long int i,n,series=0;
-	printf("Enter the value of n");
-	scanf("%lld",&n);
-	for(i=1;i<=n;i++)
-	{
-		series=(series*10)+9;
-		printf("%lld\t",series);
-	}
-}
->>>>>>> 7547e39c535205c73e3395442a0bb112a0d03976
