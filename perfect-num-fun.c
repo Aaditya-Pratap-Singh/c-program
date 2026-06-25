@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //functions: no arguement and with return value
 #include<stdio.h>
 int check(int);
@@ -26,32 +25,3 @@ printf("Number is perfect");
 else
 printf("Number is not perfect");
 }
-=======
-//functions: no arguement and with return value
-#include<stdio.h>
-int check(int);
-int check(int n)
-{
-	int i,sum=0;
-	for(i=1;i<n;i++)
-  {
-  	if(n%i==0)
-      sum=sum+i;
-}
-if(sum==n)
-return 1;
-else
-return 0;
-}
-void main()
-{
-	int n,res;
-	printf("Enter the any number");
-	scanf("%d",&n);
-	res=check(n);//call by value
-if(res==1)
-printf("Number is perfect");
-else
-printf("Number is not perfect");
-}
->>>>>>> b102a9a18a250e69d41006b6ec740285a0e53433

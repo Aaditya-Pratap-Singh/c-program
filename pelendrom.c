@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // to check whether the given  3 digit number is pelendrom or not
 #include<stdio.h>
 void main()
@@ -19,25 +18,3 @@ void main()
 		printf("Not a pelendrom");
 	}
 }
-=======
-// to check whether the given  3 digit number is pelendrom or not
-#include<stdio.h>
-void main()
-{
-	int n,d1,d2,d3,rev;
-	printf("Enter a three digit number");
-	scanf("%d",&n);
-	d1=n/100;
-	d2=(n/10)%10;
-	d3=n%10;
-	rev=d3*100+d2*10+d1*1;
-	if(rev==n)
-	{
-		printf("The given number is pelendrom");
-	}
-	else
-	{
-		printf("Not a pelendrom");
-	}
-}
->>>>>>> 7547e39c535205c73e3395442a0bb112a0d03976

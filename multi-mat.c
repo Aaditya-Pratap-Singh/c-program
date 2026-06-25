@@ -1,0 +1,30 @@
+//multiplication of two matrix
+#include<stdio.h>
+void main()
+{
+	int r,c,r1,c1,r2,c2,i,j,k;
+	printf("Enter the value of row column\n");
+	scanf("%d%d",&r,&c);
+	int a[r1][c1];
+	int b[r1][c1];
+	int mul[r][c];
+	printf("Enter the elements of matrix 1");
+	for(i=0;i<r1;i++)
+	{
+		for(j=0;j<c1;j++)
+		{
+			scanf("%d",&a[i][j]);
+		}
+	}
+	printf("Enter the elements of matrix 2");
+	for(i=0;i<r2;i++)
+	{
+		for(j=0;j<c2;j++)
+		{
+			scanf("%d",&b[i][j]);
+		}
+	}
+	printf("Multiplication of matrix");
+	if(c1==r2);
+	for()
+}
