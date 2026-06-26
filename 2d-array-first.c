@@ -1,4 +1,4 @@
-//2d array input and output
+//2d array input and output of matrix
 #include<stdio.h>
 void main()
 {
