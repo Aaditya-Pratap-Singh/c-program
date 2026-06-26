@@ -1,4 +1,4 @@
-//PRINT A SERIES 1 TO 1/n (loops)
+//PRINT A SERIES 1 TO 1/N (loops)
 #include<stdio.h>
 void main()
 {
