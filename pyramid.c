@@ -1,4 +1,4 @@
-//pyramid in a matrix
+//pyramid in a matrix - patterns
 #include<stdio.h>
 void main()
 {
