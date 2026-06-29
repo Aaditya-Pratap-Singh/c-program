@@ -4,7 +4,7 @@ void main()
 {
 	int a,b,c;
 	printf("enter the value of a ,b ,c");
-	scanf("%d%d%d",&a,&b,&c);
+	scanf("%d%d%d",&a,&b,&c); // & is defining address of variable
 	if(a>b)
 	{
 		if(a>c)
