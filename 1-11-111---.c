@@ -8,6 +8,6 @@ void main()
 	for(i=1;i<=n;i++)
 	{
 		series=(series*10)+1;
-		printf("%lld\t",series);
+		printf("%lld\t",series);// \t for space 
 	}
 }
