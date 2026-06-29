@@ -1,4 +1,5 @@
 // to check whether the given  3 digit number is pelendrom or not
+// pelendrom -> 11,22,444,545
 #include<stdio.h>
 void main()
 {
