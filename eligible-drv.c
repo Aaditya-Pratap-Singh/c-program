@@ -8,9 +8,9 @@ void main()
 	switch(age>=18)
 	{
 		case 1 :
-			printf("Your are eligible");
+			printf("Your are Eligible");
 			break;
 		case 0 :
-			printf("Not eligible");
+			printf("Not Eligible");
 	}
 }
