@@ -8,5 +8,5 @@ void main()
 	if(status==0)
 	printf("File deleted successfully.....");
 	else
-	printf("File do not exits!!");
+	printf("File do not exits..!!!");
 }
