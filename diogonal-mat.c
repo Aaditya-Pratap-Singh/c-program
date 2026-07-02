@@ -1,4 +1,4 @@
-//diogonal matrix
+//diogonal matrix by loop
 #include<stdio.h>
 void main()
 {
