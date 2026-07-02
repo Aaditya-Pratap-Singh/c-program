@@ -1,4 +1,4 @@
-//array input  by user
+//array input by user
 #include<stdio.h>
 void main()
 {
