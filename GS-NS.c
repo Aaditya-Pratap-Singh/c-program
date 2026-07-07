@@ -7,7 +7,7 @@ void main()
 	scanf("%f",&BS);
 	TA=(BS*10)/100;
 	DA=(BS*5)/100;
-	PF=(BS*7.8)/100;
+	PF=(BS*7.8)/100; 
 	GS= BS+TA+DA;
 	NS= GS-PF;
 	printf("the value of GS is :%f\n",GS);
