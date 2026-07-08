@@ -8,7 +8,7 @@ void main()
 	if(num>99 && num<1000)
 	{
 		printf("This  is three digit number"); 
-	}
+	} 
 	else
 	{
 		printf("Not a three digit number");
