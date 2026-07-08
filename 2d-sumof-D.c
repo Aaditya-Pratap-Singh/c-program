@@ -1,4 +1,4 @@
-//2d array sum of diogonals 
+//2-D array sum of diogonals 
 #include<stdio.h>
 void main()
 {
