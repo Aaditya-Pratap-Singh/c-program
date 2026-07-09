@@ -5,7 +5,7 @@ void show()
 {
 	printf("HELLO WORLD.... ");
 }
-void main()
+void main() 
 {
 	show();
 }
