@@ -7,6 +7,6 @@ void main()
 	scanf("%d",&n);  
 	for(i=1;i<=n;i++)
 	{
-		printf("%d\t",i);// \t for space
+		printf("%d\t",i);// \t  for space
 	}
 }
