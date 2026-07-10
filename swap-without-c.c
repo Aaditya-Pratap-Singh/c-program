@@ -7,7 +7,7 @@ void main()
 	scanf("%d%d",&a,&b);
 	printf("a before swapping: %d\n",a);
 	printf("b before swapping: %d\n",b);
-	a=a+b;
+	a=a+b; 
 	b=a-b;
 	a=a-b;
 	printf("a after swapping: %d\n",a);
