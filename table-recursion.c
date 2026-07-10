@@ -8,7 +8,7 @@ int table(int n, int i)
 		table(n,i+1);
 	}
 }
-void main()
+void main() 
 {
 	int n,i=1;
 	printf("Enter the value of n");
