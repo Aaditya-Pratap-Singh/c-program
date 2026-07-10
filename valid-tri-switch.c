@@ -8,7 +8,7 @@ void main()
 	switch(a+b>c && b+c>a && a+c>b)
 	{
 		case 1 :
-			printf("Triangle is valid");
+			printf("Triangle is valid"); 
 			break;
 		case 0 :
 			printf("Triangle not valid");
