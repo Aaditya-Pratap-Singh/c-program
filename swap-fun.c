@@ -5,7 +5,7 @@ void swapp(int,int);
 void swapp(int a,int b)
 {
 	int temp;
-	temp=a;
+	temp=a; 
 	a=b;
 	b=temp;
 	printf("after swapping the value of a in function defination=%d\n",a);
