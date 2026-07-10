@@ -7,7 +7,7 @@ void main()
 	for (i=1;i<=row;i++)
 	{
 		for(j=1;j<=i;j++)
-		{
+		{ 
 		count++;
 		printf("%d\t",count);
 	    }
