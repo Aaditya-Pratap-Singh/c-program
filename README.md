@@ -1,1 +1,1 @@
-This Repository has all the basic programs of C language .
+This Repository has all the Basic programs of C language .
