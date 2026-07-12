@@ -1,5 +1,5 @@
 //to print a message by a function
-#include<stdio.h>
+#include<stdio.h> 
 void show();
 void show()
 {
