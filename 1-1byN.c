@@ -9,4 +9,4 @@ void main()
 	{
 		printf(" 1/%d\t",i);// \t for space
 	}
-}
+} 
