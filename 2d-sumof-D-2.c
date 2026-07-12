@@ -5,7 +5,7 @@ void main()
 	int r,c,i,j,sum=0;
 	printf("enter the size of r and c");
 	scanf("%d%d",&r,&c);
-	int a[r][c];
+	int a[r][c]; 
 	printf("Enter the element of matrix\n");
 	for(i=0;i<r;i++) 
 	{
