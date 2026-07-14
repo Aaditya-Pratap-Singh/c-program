@@ -11,6 +11,6 @@ void main()
 	}
 	else
 	{
-		printf("An alphabet is a Consonant");
+		printf("An alphabet is a Consonant"); 
 	}
 }
