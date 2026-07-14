@@ -8,7 +8,7 @@ void main()
 	sum= a1+ a2+ a3;
 	if(sum==180)
 	{
-		printf("This triangle is valid");
+		printf("This triangle is valid");  
 	}
 	else
 	{
