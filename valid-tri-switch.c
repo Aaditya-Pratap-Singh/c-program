@@ -12,7 +12,7 @@ void main()
 			printf("Triangle is valid");
 			break;
 		case 0 :
-			printf("Triangle not valid");
+			printf("Triangle not valid"); 
 			break;
 		default :
 			printf("error");
