@@ -4,7 +4,7 @@ void main()
 {
 	int n1,n2,i,min,HCF;
 	printf("Enter the value of n1 and n2 :");
-	scanf("%d%d",&n1,&n2);
+	scanf("%d%d",&n1,&n2); 
 	min=(n1>n2)?n1:n2;
 	for(i=1;i<=min;i++)
 	{
