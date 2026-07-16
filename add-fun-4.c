@@ -5,7 +5,7 @@ float add(float,float);
 float add(float a,float b)//formal parameter
 {
 	return a+b;
-}
+} 
 void main()
 {
 	float a,b,res;
