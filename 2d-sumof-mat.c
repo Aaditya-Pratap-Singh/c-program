@@ -9,7 +9,7 @@ void main()
     int b[r][c];
 	int sum[r][c];
 	printf("Enter the element of first matrix\n");
-	for(i=0;i<r;i++)
+	for(i=0;i<r;i++) 
 	{
 		for(j=0;j<c;j++)
 		{
