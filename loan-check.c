@@ -1,6 +1,6 @@
 //to check weather the person is eligible for loan or not
 #include<stdio.h>
-void main()
+void main() 
 {
 	int age,income,credit_score;
 	printf("enter your age:");
