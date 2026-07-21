@@ -4,7 +4,7 @@ void main()
 {
 	int age,choice;
 	printf("Enter age");
-	scanf("%d",&age);
+	scanf("%d",&age); 
 	if(age<25)
 	{
 	choice=1;
