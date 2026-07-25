@@ -6,7 +6,7 @@ void main()
 	printf("enter the value of a and b");
 	scanf("%d%d",&a,&b);
 	printf("value of a before swapping: %d\n",a);
-	printf("value of b before swapping: %d\n",b);
+	printf("value of b before swapping: %d\n",b); 
 	a=a^b; 
 	b=a^b;
 	a=a^b;
