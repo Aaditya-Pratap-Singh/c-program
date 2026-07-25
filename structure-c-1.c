@@ -12,7 +12,7 @@ void main()
 	printf("Enter the details of employee\n");
 	printf("Enter employee i'd :");
 	scanf("%d",&e1.eid);// . bcz we are not using pointers
-	printf("Enter employee name :");
+	printf("Enter employee name :"); 
 	scanf("%s",&e1.ename);
 	printf("Enter employee salary :");
 	scanf("%f",&e1.esal);
