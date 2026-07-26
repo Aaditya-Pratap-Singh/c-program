@@ -7,7 +7,7 @@ void main()
 	printf("----------------------------\n");
 	printf("Enter + to add numbers\n");
 	printf("Enter - to sub numbers\n");
-	printf("Enter * to multiply numbers\n");
+	printf("Enter * to multiply numbers\n"); 
 	printf("Enter / to divide numbers\n");
 	printf("----------------------------\n");
 	printf("Enter a choice  :");
