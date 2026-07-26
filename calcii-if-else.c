@@ -7,7 +7,7 @@ void main()
 	printf("Enter the value of a,b and op('+,-,*,/')  ");
 	scanf("%d%d%c",&a,&b,&op);
 	if(op=='+')
-	{
+	{ 
 		printf("Result=%d\n",a+b);
 	}
 	else if(op=='-')
