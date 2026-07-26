@@ -8,7 +8,7 @@ void main()
 	if(ch>='a' && ch<='z' || ch>='A' && ch<='Z')
 	{
 		printf("given charactor is alphabet");
-	}
+	} 
 	else if(ch>='0'&&ch<='9')
 	{
 		printf("given charactor is digit");
