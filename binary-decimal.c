@@ -5,7 +5,7 @@ void main()
 	int n,i,decimal,digit,last,sum=0;
 	printf("enter the value n");
 	scanf("%d",&n);
-	for(i=1;i<=15;i++)
+	for(i=1;i<=15;i++) 
 	{
 		if(n>0)
 		last =n%10;
