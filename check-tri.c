@@ -9,7 +9,7 @@ void main()
 	if(a==b && b==c && c==a)
 	{
 	printf("equillaterial triangle");
-    }
+    } 
     
     else if(a==b && b!=c)
     {
