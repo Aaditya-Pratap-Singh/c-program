@@ -4,7 +4,7 @@ void main()
 {
 	int n,sum,digit,final;
 	printf("Enter the value of n");
-	scanf("%d",&n);
+	scanf("%d",&n); 
 	while(n>0)
 	{
 		digit=n%10;
