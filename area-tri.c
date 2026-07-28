@@ -5,7 +5,7 @@ void main()
 	float b,h,area;
 	printf("Enter the value of b and h");
 	scanf("%f%f",&b,&h);
-	area=(b*h)/2;
+	area=(b*h)/2; 
 	printf("area of triangle: %f",area);
 }
 	
