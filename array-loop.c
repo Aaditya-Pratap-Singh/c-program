@@ -1,4 +1,4 @@
-//
+//array
 #include<stdio.h>
 void main()
 {
