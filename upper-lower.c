@@ -8,7 +8,7 @@ void main()
 	if (alpha>=65 && alpha<=90)
 	{
 		printf("Alphabet is Uppercase");
-	}
+	} 
 	else
 	{
 		printf("Alphabet is Lowercase");
