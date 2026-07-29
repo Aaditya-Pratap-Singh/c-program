@@ -7,7 +7,7 @@ void main()
 	scanf("%d",&angle);
 	if(angle==90)
 	choice=1;
-	else if(angle>90)
+	else if(angle>90) 
 	choice=2;
 	else if(angle<90)
 	choice=3;
