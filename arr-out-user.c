@@ -7,7 +7,7 @@ void main()
 	for(i=1;i<5;i++)
 	{
 		scanf("%d/n",&a[i]);
-	}
+	} 
 	printf("Display the element\n");
 	for(i=0;i<5;i++)
 	{
