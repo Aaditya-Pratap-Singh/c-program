@@ -12,7 +12,7 @@ void main()
 		final=sum;
 		n=n/10;
 	}
-	if(final==n)
+	if(final==n) 
 	printf("This number is Armstrong number");
 	else
 	printf("Not an armstrong number");
