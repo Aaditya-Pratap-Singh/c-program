@@ -13,7 +13,7 @@ void main()
 	{
 		for(j=0;j<c;j++)
 		{
-			scanf("%d",&a[i][j]);
+			scanf("%d",&a[i][j]); 
 		}
     }
     printf("Enter the element of second matrix\n");
