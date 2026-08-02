@@ -11,7 +11,7 @@ void main()
 	{
 		scanf("%d\t",a[i]);
 	}
-	printf("Display the elements of array\n");
+	printf("Display the elements of array\n"); 
 	for(i=0;i<n;i++)
 	{
 		printf("%d\t",a[i]);   
