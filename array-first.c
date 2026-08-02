@@ -6,7 +6,7 @@ void main()
 	//display : manual
 	printf("First element = %d\n",a[0]);
 	printf("Second element = %d\n",a[0]);
-	printf("Third element = %d\n",a[2]); 
+	printf("Third element = %d\n",a[2]);  
 	printf("Fourth element = %d\n",a[3]);
 	printf("Fifth element = %d\n",a[4]);
 }
