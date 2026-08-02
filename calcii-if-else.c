@@ -8,7 +8,7 @@ void main()
 	scanf("%d%d%c",&a,&b,&op);
 	if(op=='+')
 	{ 
-		printf("Result=%d\n",a+b);
+		printf("Result=%d\n",a+b); 
 	}
 	else if(op=='-')
 	{
