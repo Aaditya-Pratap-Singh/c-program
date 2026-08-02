@@ -10,7 +10,7 @@ void main()
 		if(n>0)
 		last =n%10;
 		digit=n/10;
-		decimal=(last)*pow(2,i);
+		decimal=(last)*pow(2,i); 
 		sum+=decimal;
 		n=digit;
 	}
