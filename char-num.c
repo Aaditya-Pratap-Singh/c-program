@@ -6,4 +6,4 @@ void main ()
 	printf("enter any charector");
 	scanf("%c",&ch); 
 	printf("Ascii value = %d",ch);
-}
+} 
