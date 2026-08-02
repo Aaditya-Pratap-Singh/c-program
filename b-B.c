@@ -6,5 +6,5 @@ void main()
 	printf("enter a charector:");
 	scanf("%c",&ch);
 	ch=ch-32;
-	printf("upper case charector=%c",ch);
+	printf("upper case charector=%c",ch); 
 }
