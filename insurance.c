@@ -9,7 +9,7 @@ void main()
 	{
 	choice=1;
     }
-	else if(age>=25&&age<50)
+	else if(age>=25&&age<50) 
 	{
 	choice=2;
     }
