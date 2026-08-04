@@ -8,7 +8,7 @@ float add()
 	scanf("%f%f",&a,&b);
 	sum=a+b;
 	return sum;
-}
+} 
 void main()
 {
 	float result;
