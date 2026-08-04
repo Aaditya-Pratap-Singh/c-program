@@ -1,7 +1,7 @@
 // to find HCF
 #include<stdio.h>
 void main()
-{
+{ 
 	int n1,n2,i,min,HCF;
 	printf("Enter the value of n1 and n2 :");
 	scanf("%d%d",&n1,&n2); 
