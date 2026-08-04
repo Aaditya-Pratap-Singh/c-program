@@ -7,5 +7,5 @@ void main()//can declare const by #define pi 3.14
 	scanf("%f",&r); 
 	pi=3.14;
 	area=pi*r*r;
-	printf("area = %f",area);//for restriction ,use .2before %f
+	printf("area = %f",area);//for restriction ,use .2before %f 
 }
