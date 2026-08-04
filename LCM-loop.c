@@ -6,7 +6,7 @@ void main()
 	printf("Enter the value of a and b");
 	scanf("%d%d",&a,&b);
 	mul=a*b;
-	for(i=1;i<=mul;i++)
+	for(i=1;i<=mul;i++) 
 	{
 		if(i%a==0&&i%b==0)
 		break;
