@@ -9,7 +9,7 @@ float add(float a,float b)//formal parameter
 void main()
 {
 	float a,b,res;
-	printf("Enter the value of a and b");
+	printf("Enter the value of a and b"); 
 	scanf("%f%f",&a,&b);
 	res=add(a,b);
 	printf("Sum=%f",res);
