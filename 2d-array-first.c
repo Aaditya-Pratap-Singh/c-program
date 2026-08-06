@@ -11,7 +11,7 @@ void main()
 	{
 		for(j=0;j<c;j++)
 		{ 
-			scanf("%d",&a[i][j]);
+			scanf("%d",&a[i][j]); 
 		}
     }
     printf("Display the elements of matrix\n");
