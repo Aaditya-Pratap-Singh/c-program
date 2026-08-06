@@ -7,5 +7,5 @@ void show()
 }
 void main()
 {
-	show();
+	show(); 
 }
