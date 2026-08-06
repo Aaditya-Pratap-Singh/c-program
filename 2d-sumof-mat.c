@@ -7,7 +7,7 @@ void main()
 	scanf("%d%d",&r,&c);
 	int a[r][c];
     int b[r][c];
-	int sum[r][c];
+	int sum[r][c]; 
 	printf("Enter the element of first matrix\n"); 
 	for(i=0;i<r;i++) 
 	{
