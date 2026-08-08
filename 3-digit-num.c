@@ -4,7 +4,7 @@ void main()
 {
 	int num;
 	printf("Enter a number:");
-	scanf("%d",&num);
+	scanf("%d",&num); 
 	if(num>99 && num<1000)
 	{ 
 		printf("This  is three digit number");
