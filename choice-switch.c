@@ -8,7 +8,7 @@ void main()
 	switch(choice)
 	{
 		case 1 :
-		       printf("Monday\n");
+		       printf("Monday\n"); 
 		       break;
 	    case 2:
 		       printf("Tuesday\n");
