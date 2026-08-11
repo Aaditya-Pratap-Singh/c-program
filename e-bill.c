@@ -10,7 +10,7 @@ void main()
 		bill=3*unit;
 	    printf("your bill=%f",bill);
 	}
-	else if(unit>100 && unit<=200)
+	else if(unit>100 && unit<=200) 
 	{
 		bill=5*unit;
 		printf("your bill=%f",bill);
