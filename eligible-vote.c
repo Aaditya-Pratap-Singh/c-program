@@ -7,7 +7,7 @@ void main()
 	scanf("%d",&age);
 	if(age>=18)
 	{
-		printf("you are eligible for vote");
+		printf("you are eligible for vote"); 
 	}
 	else
 	{
