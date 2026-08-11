@@ -4,7 +4,7 @@
  {
  	int eid;
  	char ename[20];
- 	float esal;
+ 	float esal; 
  };
 void main()
 {
