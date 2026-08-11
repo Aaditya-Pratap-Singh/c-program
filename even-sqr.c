@@ -7,7 +7,7 @@ void main()
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)
 	{
-		sqr=i*i;
+		sqr=i*i; 
 		if(i%2==0)
 		printf("%d\t",sqr);// \t for space
 	}
