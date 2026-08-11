@@ -7,7 +7,7 @@ void main()
 	scanf("%d",&n);
 	switch(n%12)
 	{
-		case 0 :
+		case 0 : 
 			printf("Number is divisible by both");
 			break;
 		case 1 :
