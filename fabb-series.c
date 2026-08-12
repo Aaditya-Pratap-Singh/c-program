@@ -6,7 +6,7 @@ void main()
 	printf("Enter the ending of the series");
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)
-	{
+	{ 
 		sum=a+b;
 		printf("%d\t",sum);
 		a=b;
