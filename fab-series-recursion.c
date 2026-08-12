@@ -8,7 +8,7 @@ int fab(int n) {
         return fab(n - 1) + fab(n - 2);  
 }
 
-int main() 
+int main()  
 {
     int n, i;
     printf("Enter the value of n: ");
