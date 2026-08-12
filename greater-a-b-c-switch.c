@@ -7,7 +7,7 @@ void main()
 	scanf("%d%d%d",&a,&b,&c);
 	if(a>b&&a>c)
 	choice=1;
-	else if(b>a&&b>c)
+	else if(b>a&&b>c) 
 	choice=2;
 	switch(choice)
 	{
