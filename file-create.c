@@ -8,7 +8,7 @@ void main()
 	fp = fopen("abc.txt","w");
 	if(fp==NULL)
 	{
-		printf("Error in file creation!!!");
+		printf("Error in file creation!!!"); 
 		exit(0);
 	}
 	
