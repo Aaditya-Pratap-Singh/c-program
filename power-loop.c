@@ -9,7 +9,7 @@ void main()
 	scanf("%d",&power);
 	for(i=1;i<=power;i++)
 	{
-		result=result*base;
+		result=result*base; 
 	}
 	printf("Answer=%d",result);
 }
