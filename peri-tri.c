@@ -6,5 +6,5 @@ void main()
 	printf("enter the value of lenght, bredth and height");
 	scanf("%d%d%d",&l,&b,&h);
 	perimeter = l+b+h;
-	printf("perimeter of triangle = %d",perimeter);
+	printf("perimeter of triangle = %d",perimeter); 
 }
