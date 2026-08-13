@@ -9,7 +9,7 @@ void main()
 	choice=1;
 	else if(x<0&&y>0)
 	choice=2;
-	else if(x<0&&y<0)
+	else if(x<0&&y<0) 
 	choice=3;
 	else if(x>0&&y<0)
 	choice=4;
