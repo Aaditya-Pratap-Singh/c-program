@@ -11,7 +11,7 @@ void main()
 	    count++;
     }
 	 if(count==2)
-	 {
+	 { 
 	 	printf("Prime number");
 	 }
 	 else
