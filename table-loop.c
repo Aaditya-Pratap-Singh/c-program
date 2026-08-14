@@ -7,7 +7,7 @@ void main()
 	scanf("%d",&n);
 	for(i=1;i<=10;i++)
 	{
-		table=i*n;
+		table=i*n; 
 		printf(" %d\n",table);
 	}
 }
