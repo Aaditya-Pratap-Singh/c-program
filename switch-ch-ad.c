@@ -13,7 +13,7 @@ void main()
 		case 2 :
 			printf("You are teenager");
 			break;
-		case 3 :
+		case 3 : 
 			printf("you are an adult");
 			break;
 		case 4 :
