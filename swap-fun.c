@@ -8,7 +8,7 @@ void swapp(int a,int b)
 	temp=a;
 	a=b;
 	b=temp;
-	printf("after swapping the value of a in function defination=%d\n",a);
+	printf("after swapping the value of a in function defination=%d\n",a); 
 	printf("after swapping the value of b in function defination=%d\n",b);
 }
 void main()
