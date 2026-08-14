@@ -7,7 +7,7 @@ void main()
 	scanf("%d%d",&a,&b);
 	printf("Value of a before swapping %d\n",a);
 	printf("Value of b before swapping %d\n",b);
-	//logic for swapping
+	//logic for swapping 
 	c=a;
 	a=b;
 	b=c;
