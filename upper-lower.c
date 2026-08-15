@@ -7,7 +7,7 @@ void main()
 	scanf("%c",&alpha);
 	if (alpha>=65 && alpha<=90)
 	{
-		printf("Alphabet is Uppercase");
+		printf("Alphabet is Uppercase"); 
 	} 
 	else
 	{
