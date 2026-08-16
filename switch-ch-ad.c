@@ -11,7 +11,7 @@ void main()
 			printf("You are a child");
 		break;
 		case 2 :
-			printf("You are teenager");
+			printf("You are teenager"); 
 			break;
 		case 3 : 
 			printf("you are an adult");
