@@ -6,7 +6,7 @@ void main()
 	printf("Enter the value of n");
 	scanf("%d",&n);
 	for(i=1;i<=10;i++)
-	{
+	{ 
 		table=i*n; 
 		printf(" %d\n",table);
 	}
