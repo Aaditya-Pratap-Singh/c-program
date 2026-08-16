@@ -10,7 +10,7 @@ void main()
 		printf("Alphabet is Uppercase"); 
 	} 
 	else
-	{
+	{ 
 		printf("Alphabet is Lowercase");
 	}
 }
