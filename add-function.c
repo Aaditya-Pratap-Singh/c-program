@@ -8,7 +8,7 @@ void add(float p,float q)//formal parameter
 	printf("Sum=%.2f",sum);
 }
 void main()
-{
+{ 
 	float a,b,sum;
 	printf("Enter the value of a and b");
 	scanf("%f%f",&a,&b);
