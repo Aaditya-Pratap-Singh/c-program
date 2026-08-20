@@ -1,7 +1,7 @@
 //2d array sum of diogonals 
 #include<stdio.h>
 void main()
-{
+{ 
 	int r,c,i,j,sum=0;
 	printf("enter the size of r and c");
 	scanf("%d%d",&r,&c); 
