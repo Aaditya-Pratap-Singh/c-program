@@ -3,7 +3,7 @@ int main()
 {
     int t;
     scanf("%d", &t);
- 
+  
     while (t--) {
         char c;
         scanf(" %c", &c); 
