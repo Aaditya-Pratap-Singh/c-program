@@ -9,7 +9,7 @@ int main()
         scanf(" %c", &c); 
  
         if (c == 'c' || c == 'o' || c == 'd' || c == 'e' || 
-            c == 'f' || c == 'r' || c == 's') {
+            c == 'f' || c == 'r' || c == 's') { 
             printf("YES\n");
         } else {
             printf("NO\n");
