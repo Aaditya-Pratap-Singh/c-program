@@ -8,7 +8,7 @@ int main()
         char c;
         scanf(" %c", &c); 
  
-        if (c == 'c' || c == 'o' || c == 'd' || c == 'e' || 
+        if (c == 'c' || c == 'o' || c == 'd' || c == 'e' ||  
             c == 'f' || c == 'r' || c == 's') { 
             printf("YES\n");
         } else {
