@@ -8,7 +8,7 @@ void main()
 	mul=a*b;
 	for(i=1;i<=mul;i++) 
 	{ 
-		if(i%a==0&&i%b==0)
+		if(i%a==0&&i%b==0) 
 		break;
 	}
 	printf("LCM=%d",i);
