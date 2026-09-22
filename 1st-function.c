@@ -2,7 +2,7 @@
 #include<stdio.h>
 void show();
 void show()
-{ 
+{  
 	printf("HELLO WORLD ");   
 }
 void main()  
