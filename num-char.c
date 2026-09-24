@@ -4,6 +4,6 @@ void main()
 {
 	int n;
 	printf("enter a number:");
-	scanf("%d",&n);
+	scanf("%d",&n); 
 	printf("charector= %c",n);
 }
