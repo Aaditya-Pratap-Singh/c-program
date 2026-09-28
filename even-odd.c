@@ -7,7 +7,7 @@ void main()
 	scanf("%d",&n);
 	if(n%2==0)// (=) means assigning the value of n
 	{
-		printf("number is even");
+		printf("number is even"); 
 	}
 	else 
 	{
