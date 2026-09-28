@@ -10,7 +10,7 @@ void main()
 		case 1 :
 		       printf("Monday\n"); 
 		       break;
-	    case 2:
+	    case 2: 
 		       printf("Tuesday\n");
 		       break; 
 		case 3:
