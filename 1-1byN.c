@@ -1,5 +1,5 @@
 //PRINT A SERIES 1 TO 1/n
-#include<stdio.h>
+#include<stdio.h> 
 void main()
 {
 	int n,i;
